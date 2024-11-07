@@ -45,14 +45,15 @@ The PCB design process begins by converting a schematic diagram into a physical 
 
 
 
-
-
-
 ![image](https://github.com/KrutikaShindeGH/ESP8266_SmartWatch_hardware/assets/138847255/aa109412-2f9d-448b-bb5d-03277e484340)
 
 
 
 
+https://drive.google.com/file/d/17qhbenSemnoGe5INXDmxQS0INeZJEHD2/view?usp=sharing
+
 
 
 <img width="365" alt="image" src="https://github.com/KrutikaShindeGH/ESP8266_SmartWatch_hardware/assets/138847255/b3740477-26ee-4207-bfa4-9c37e15b6c5c">
+
+https://drive.google.com/file/d/17qhbenSemnoGe5INXDmxQS0INeZJEHD2/view?usp=sharing
