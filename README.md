@@ -8,6 +8,10 @@ It includes
 4. Medicine Reminder Application 
 With an overall compact Hardware .
 
+[Smart Watch_Report.pdf](https://github.com/user-attachments/files/21285050/Smart.Watch_Report.pdf)
+
+
+
 
 Implemented System Architecture:
 
